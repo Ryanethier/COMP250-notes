@@ -36,10 +36,11 @@ Every note uses the same fields:
 | AI in education | [Cheating or Academic Dishonesty?](notes/the-end-of-the-essay-01.md) | Hsu, New Yorker (2025) |
 | AI in education | [Acceptable AI Use](notes/the-end-of-the-essay-02.md) | Hsu, New Yorker (2025) |
 | AI industry | [Qualcomm and Amazon's AI-Chip Deal](notes/ai-chips.md) | Rooprai, Reuters (2026) |
+| AI industry | [Action towards AGI](notes/openai-astra.md) | unicodeveloper, Medium (2026) |
 | AI industry | [Profits over Safety?](notes/ai-slowdown.md) | Hu, Reuters (2026) |
 | Note-taking method | [Zettelkasten Method](notes/zettelkasten-01.md) | |
 | Note-taking method | [Making Connections and Keeping Notes](notes/zettelkasten-02.md) | zettelkasten.de |
-| Policy | [Hollow Promises](notes/trump-5000-dollars-AP-article.md) | Cooper, AP News (2026) |
+
 
 ## Tools
 
