@@ -23,7 +23,6 @@ Every note uses the same fields:
 # Valuable Quote:  One short passage worth keeping
 # Insight:      My analysis in my own words
 # Keywords:     Terms for searching across notes
-# Links:        Related notes in this repo
 ```
 
 ## Notes Index
