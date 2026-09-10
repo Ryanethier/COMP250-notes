@@ -1,4 +1,4 @@
-# Title: More Powerful, but Less Truthful
+# Title: AI and Truthfulness
 
 # Date: September 8th, 2026
 
@@ -10,12 +10,6 @@
 
 # Insight:
 
-This article introduces the concept of hallucination in modern AI systems, the tendency of a model to produce confident output that is simply not true. There is a conflict at the heart of this article and it's the simple fact that although these systems keep getting more powerful, they are getting worse at producing true and factual information.
+It's clear that the hallucination issue is the single biggest reason we can't fully adopt these systems into sensitive fields such as criminal justice or medicine. I'm sure we will find ways to almost completely eliminate these errors but it brings up an interesting discussion on human nature itself. It isn't without question that we as humans either 1. Lie or 2. Fabricate information for the benefit of some goal, so is AI going to "stop making mistakes" and become more honest or is it a function of LLM and it's relationship with human language? 
 
-I particularly note the warning that hallucinations "may not be a big problem for many people, but it is a serious issue for anyone using the technology with court documents, medical information or sensitive business data." While I'm not anti AI, I feel we should be compelled to call out this flaw and keep ourselves in a position of authority over the tool rather than trusting its output blindly.
-
-To that point, the real takeaway from this article is that we should always continue to do our own fact checking and research. It is acceptable to use AI, but only if we use it responsibly, which means knowing its limitations and knowing where its output can honestly be relied on.
-
-It's clear that the hallucination issue is the single biggest reason we can't fully adopt these systems into sensitive fields such as criminal justice or medicine, but at what cost do we keep waiting, and what do we risk if we hand these fields over before the problem is solved?
-
-# Keywords: Hallucination, Factual, Responsibility, Trust
+# Keywords: Hallucination, Fabricate, Information, AI, Relationship
