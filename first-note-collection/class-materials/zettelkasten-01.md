@@ -1,8 +1,14 @@
-# Title: Zettlekasten method
+# Title: 
 
-# Date: September 5th, 2026
+Zettlekasten method
 
-# Source: Claude (Anthropic), chat output, September 5, 2026
+# Date: 
+
+September 5th, 2026
+
+# Source: 
+
+Claude (Anthropic), chat output, September 5, 2026
 
 # Valuable Quote:
 

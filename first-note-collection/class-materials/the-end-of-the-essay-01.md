@@ -1,8 +1,14 @@
-# Title: Cheating or Academic Dishonesty?
+# Title: 
 
-# Date: September 9th, 2026
+Cheating or Academic Dishonesty?
 
-# Source: Hsu, Hua. “The End of the Essay.” New Yorker, July 7, 2025.
+# Date: 
+
+September 9th, 2026
+
+# Source: 
+
+Hsu, Hua. “The End of the Essay.” New Yorker, July 7, 2025.
 
 # Valuable Quote: 
 

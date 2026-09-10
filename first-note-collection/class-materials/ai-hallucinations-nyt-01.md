@@ -1,8 +1,14 @@
-# Title: AI and Truthfulness
+# Title: 
 
-# Date: September 8th, 2026
+AI and Truthfulness
 
-# Source: Metz, Cade, and Karen Weise. “A.I. Is Getting More Powerful, but Its Hallucinations Are Getting Worse.” Technology. The New York Times, May 5, 2025. https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html.
+# Date: 
+
+September 8th, 2026
+
+
+# Source: 
+Metz, Cade, and Karen Weise. “A.I. Is Getting More Powerful, but Its Hallucinations Are Getting Worse.” Technology. The New York Times, May 5, 2025. https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html.
 
 # Valuable Quote:
 

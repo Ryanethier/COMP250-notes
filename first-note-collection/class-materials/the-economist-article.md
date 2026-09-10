@@ -1,8 +1,14 @@
-# Title: The Conflict with Deep Research
+# Title: 
 
-# Date: September 2nd, 2026
+The Conflict with Deep Research
 
-# Source: Economist, "Often helpful, sometimes bad, always dangerous" (1 page)
+# Date: 
+
+September 2nd, 2026
+
+# Source: 
+
+Economist, "Often helpful, sometimes bad, always dangerous" (1 page)
 
 # Valuable Quote:
 
