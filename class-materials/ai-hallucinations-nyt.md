@@ -1,22 +1,21 @@
-# Date: 9/8/2026
+# Title: More Powerful, but Less Truthful
 
-# Title: AI Hallucinations Are Getting Worse - Notes
+# Date: September 8th, 2026
 
-# Source: Metz, Cade, and Karen Weise. “A.I. Is Getting More Powerful, but Its Hallucinations Are Getting Worse.” Technology. The New York Times, May 5, 2025. https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html.
+# Source: New York Times, "A.I. Is Getting More Powerful, but Its Hallucinations Are Getting Worse" (May 5, 2025)
 
-# Quote: 
+# Valuable Quote:
 
-"Those hallucinations may not be a big problem for many people, but it is a serious
-issue for anyone using the technology with court documents, medical information
-or sensitive business data"
+"Those hallucinations may not be a big problem for many people, but it is a serious issue for anyone using the technology with court documents, medical information or sensitive business data"
 
-# Notes:
+# Insight:
 
-It's interesting to see AI tech continually improving in terms of its capabilities but still lacking an ability to produce true and factual information.
-The real takeaway from this article is that we should and always continue to do our own fact checking or research. 
-It is acceptable to use AI but we have to use it responsibly.
-Part of using AI responsibly is knowing its limitations and knowing where we can use it's output honestly. 
-Clearly the hallucination issue is the clear number one reason as to why we can't fully adopt these systems into sensitive fields such as criminal justice, medicine, etc.
+This article introduces the concept of hallucination in modern AI systems, the tendency of a model to produce confident output that is simply not true. There is a conflict at the heart of this article and it's the simple fact that although these systems keep getting more powerful, they are getting worse at producing true and factual information.
 
-# Keywords: AI, Hallucination, Factual, Information, Tech
+I particularly note the warning that hallucinations "may not be a big problem for many people, but it is a serious issue for anyone using the technology with court documents, medical information or sensitive business data." While I'm not anti AI, I feel we should be compelled to call out this flaw and keep ourselves in a position of authority over the tool rather than trusting its output blindly.
 
+To that point, the real takeaway from this article is that we should always continue to do our own fact checking and research. It is acceptable to use AI, but only if we use it responsibly, which means knowing its limitations and knowing where its output can honestly be relied on.
+
+It's clear that the hallucination issue is the single biggest reason we can't fully adopt these systems into sensitive fields such as criminal justice or medicine, but at what cost do we keep waiting, and what do we risk if we hand these fields over before the problem is solved?
+
+# Keywords: Hallucination, Factual, Responsibility, Trust
