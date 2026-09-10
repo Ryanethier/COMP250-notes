@@ -30,16 +30,16 @@ Every note uses the same fields:
 
 | Theme | Note | Source |
 | --- | --- | --- |
-| AI reliability | [The Conflict with Deep Research](notes/the-economist-article.md) | The Economist |
-| AI reliability | [AI and Truthfulness](notes/ai-hallucinations-nyt-01.md) | Metz and Weise, New York Times (2025) |
-| AI reliability | [Compounding Errors and the Step-by-Step Problem](notes/ai-hallucinations-nyt-02.md) | Metz and Weise, New York Times (2025) |
-| AI in education | [Cheating or Academic Dishonesty?](notes/the-end-of-the-essay-01.md) | Hsu, New Yorker (2025) |
-| AI in education | [Acceptable AI Use](notes/the-end-of-the-essay-02.md) | Hsu, New Yorker (2025) |
-| AI industry | [Qualcomm and Amazon's AI-Chip Deal](notes/ai-chips.md) | Rooprai, Reuters (2026) |
-| AI industry | [Action towards AGI](notes/openai-astra.md) | unicodeveloper, Medium (2026) |
-| AI industry | [Profits over Safety?](notes/ai-slowdown.md) | Hu, Reuters (2026) |
-| Note-taking method | [Zettelkasten Method](notes/zettelkasten-01.md) | |
-| Note-taking method | [Making Connections and Keeping Notes](notes/zettelkasten-02.md) | zettelkasten.de |
+| AI reliability | [The Conflict with Deep Research] | The Economist |
+| AI reliability | [AI and Truthfulness] | Metz and Weise, New York Times (2025) |
+| AI reliability | [Compounding Errors and the Step-by-Step Problem] | Metz and Weise, New York Times (2025) |
+| AI in education | [Cheating or Academic Dishonesty?] | Hsu, New Yorker (2025) |
+| AI in education | [Acceptable AI Use] | Hsu, New Yorker (2025) |
+| AI industry | [Qualcomm and Amazon's AI-Chip Deal] | Rooprai, Reuters (2026) |
+| AI industry | [Action towards AGI] | unicodeveloper, Medium (2026) |
+| AI industry | [Profits over Safety?] | Hu, Reuters (2026) |
+| Note-taking method | [Zettelkasten Method] | |
+| Note-taking method | [Making Connections and Keeping Notes] | zettelkasten.de |
 
 
 ## Tools
