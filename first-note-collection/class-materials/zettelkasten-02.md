@@ -8,7 +8,7 @@ September 9th, 2026
 
 # Source: 
 
-sascha. “Introduction to the Zettelkasten Method.” Zettelkasten Method, 54:00 100 AD. https://zettelkasten.de/introduction/.
+Fast, Sascha. "Introduction to the Zettelkasten Method." Zettelkasten Method. October 27, 2020. https://zettelkasten.de/introduction/.
 
 # Valuable Quote: 
 
