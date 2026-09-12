@@ -18,7 +18,7 @@ Fast, Sascha. "Introduction to the Zettelkasten Method." Zettelkasten Method. Oc
 
 The main point here is that note taking should transform information into useful knowledge by making connections rather than simply collecting facts.
 
-When we are unsure whether or not something will be useful later on, its better to make the note within our own time because we cant always predict what information or knowledge will become valuable to us in the future.
+When we are unsure whether or not something will be useful later on, it's better to make the note within our own time because we can't always predict what information or knowledge will become valuable to us in the future.
 
 # Keywords: Information, Knowledge, Processing, Useful
 

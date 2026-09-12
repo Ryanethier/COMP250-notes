@@ -16,6 +16,6 @@ Metz, Cade, and Karen Weise. “A.I. Is Getting More Powerful, but Its Hallucina
 
 # Insight:
 
-It's clear that the hallucination issue is the single biggest reason we can't fully adopt these systems into sensitive fields such as criminal justice or medicine. I'm sure we will find ways to almost completely eliminate these errors but it brings up an interesting discussion on human nature itself. It isn't without question that we as humans either 1. Lie or 2. Fabricate information for the benefit of some goal, so is AI going to "stop making mistakes" and become more honest or is it a function of LLM and it's relationship with human language? 
+It's clear that the hallucination issue is the single biggest reason we can't fully adopt these systems into sensitive fields such as criminal justice or medicine. I'm sure we will find ways to almost completely eliminate these errors but it brings up an interesting discussion on human nature itself. It isn't without question that we as humans either 1. Lie or 2. Fabricate information for the benefit of some goal, so is AI going to "stop making mistakes" and become more honest or is it a function of LLM and its relationship with human language? 
 
 # Keywords: Hallucination, Fabricate, Information, AI, Relationship

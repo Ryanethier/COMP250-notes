@@ -16,8 +16,8 @@ Rooprai, Anhata. “Qualcomm Strikes AI Chip Deal with Amazon, Offers Right to B
 
 # Insight:
 
-My initial reaction to this story is that it could be way more important than it initially is appearing. Since NVDIA has become synonymous with AI chips, seeing Amazon commit to potentially 60 billion dollars worth of Qualcomm's infrastructure shows that major tech companies are actively trying to reduce their dependence on a singular supplier.
+My initial reaction to this story is that it could be way more important than it initially appears. Since NVIDIA has become synonymous with AI chips, seeing Amazon commit to potentially 60 billion dollars worth of Qualcomm's infrastructure shows that major tech companies are actively trying to reduce their dependence on a singular supplier.
 
-I also think this shows how the AI boom is becomming less about flashy consumer apps and more about the enormous infrastructure undereath it. The companies that control the infrastructure and electricity may ultimately have more influence on the future than the actual AI companies themselves.
+I also think this shows how the AI boom is becoming less about flashy consumer apps and more about the enormous infrastructure underneath it. The companies that control the infrastructure and electricity may ultimately have more influence on the future than the actual AI companies themselves.
 
 # Keywords: Electricity, Influence, Infrastructure, Market

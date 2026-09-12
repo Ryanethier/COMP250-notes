@@ -18,6 +18,6 @@ Metz, Cade, and Karen Weise. “A.I. Is Getting More Powerful, but Its Hallucina
 
 This quote from Aryo Pradipta Gema is the most useful thing in the article.
 
-Reasoning models show their work now which feels like transparency but researchers are stating that the displayed steps arent always related to the actual answer or response that comes out.
+Reasoning models show their work now which feels like transparency but researchers are stating that the displayed steps aren't always related to the actual answer or response that comes out.
 
 # Keywords: Transparency, Reasoning, Thinking, Research
